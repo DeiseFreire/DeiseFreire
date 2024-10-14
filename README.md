@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="" target="blank">
-<img align="center" src="https://www.learnchineseez.com/characters/images/chinese-love.jpg" alt="" 
-height="" /></a> 
+<a href="" target="blank"><img align="center" src="https://www.learnchineseez.com/characters/images/chinese-love.jpg" alt="" height="" /></a> 
