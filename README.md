@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **DeiseFreire/DeiseFreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.learnchineseez.com/characters/" target="blank">
+<img align="center" src="https://www.learnchineseez.com/characters/images/chinese-love.jpg" alt="" 
+height="" /></a> 
