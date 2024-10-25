@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<center><a href="https://www.youtube.com/watch?v=K2iC1aCPbKA&list=PLZpH1iUcDo5g7DAX0JgyVReJxCBO3yvUh&index=3">Heart of Courage</a></center>
+<button><center><a href="https://www.youtube.com/watch?v=K2iC1aCPbKA&list=PLZpH1iUcDo5g7DAX0JgyVReJxCBO3yvUh&index=3" target="_blank">Heart of Courage</a></center></button>
 </div>
+
