@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<div align="center">
-<img align="center" src="https://www.learnchineseez.com/characters/images/chinese-love.jpg" alt="" height="" /></a> 
-</div>-->
-
-<!--<div align="center">
-<button><center><a href="https://www.youtube.com/watch?v=K2iC1aCPbKA&list=PLZpH1iUcDo5g7DAX0JgyVReJxCBO3yvUh&index=3" target="_blank">Heart of Courage</a></center></button>
-</div>-->
 
 <!DOCTYPE html>
 <html>
@@ -35,10 +28,11 @@ Here are some ideas to get you started:
     <a href="https://www.youtube.com/watch?v=K2iC1aCPbKA&list=PLZpH1iUcDo5g7DAX0JgyVReJxCBO3yvUh&index=3" target="_blank">Heart of Courage</a>
   </div>
   <div align="left">
-    <img scr="" alt="" height="">
+    <img scr="https://github.com/user-attachments/assets/e2d59c9d-4756-4c90-9a79-f12eb827cc6d" alt="" height="">
   </div>
 </body>
 </html>
+<a href="https://br.pinterest.com/pin/50735933297806018/" target="blank"><img align="left" src="https://github.com/user-attachments/assets/e2d59c9d-4756-4c90-9a79-f12eb827cc6d" alt="" height="300" /></a>
 
 
 
