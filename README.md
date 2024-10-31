@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 </html>
 <a href="https://br.pinterest.com/pin/50735933297806018/" target="blank"><img align="left" src="https://github.com/user-attachments/assets/e2d59c9d-4756-4c90-9a79-f12eb827cc6d" alt="" height="300" /></a>
 
+<a href="" target="blank"><img align="right" src="https://github.com/user-attachments/assets/05be7d50-1b38-414c-a9e6-8e8d5cbba659" alt="" height="300" /></a>
+
 
 
 
